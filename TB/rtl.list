@@ -1,3 +1,0 @@
-../RTL/LSTM_NET_16K/*.v
-../RTL/LSTM_NET_16K/sigmoid_tanh_verilog/uncommon/*.v
-../RTL/LSTM_NET_16K/sigmoid_tanh_verilog/common/*.v
