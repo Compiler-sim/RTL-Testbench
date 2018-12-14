@@ -1,0 +1,6 @@
+﻿整个设计的流程是：matlab计算的结果通过串口发送给FPGA，使用FPGA做神经网络的硬件加速。
+1：RTL文件夹：主要包括LSTM以及全连接的RTL代码
+2：TB文件夹：主要存放仿真的testbench
+3: data文件夹:主要存放rtl的输入激励，以及算法模型得到的输出结果，用来和RTL的结果做比对。
+4：uart文件夹：主要是存放uart的rtl以及测试的testbench
+注：通过modelsim仿真产生的中间信息在TB里面

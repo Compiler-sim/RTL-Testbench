@@ -1,0 +1,15 @@
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+Start time: 03:49:34 on Dec 07,2018
+vlog -reportprogress 300 -f rtl.list Interface_tb.sv -l comp.log 
+-- Compiling module Interface
+-- Compiling module RAM
+-- Compiling module BuadRate_set
+-- Compiling module Receive_Control
+-- Compiling module Send_Control
+-- Compiling module UART
+-- Compiling module Interface_tb
+
+Top level modules:
+	Interface_tb
+End time: 03:49:34 on Dec 07,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
