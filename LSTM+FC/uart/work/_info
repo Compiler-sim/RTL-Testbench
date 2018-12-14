@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/10903/Desktop/HELLO_DD1/TB
+vBuadRate_set
+Z0 !s110 1544125774
+!i10b 1
+!s100 2GCF:4;5IJ]B3G1QTKfLf0
+IFW8PUaf;Hi<AIDWnz3>hU3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/10903/Desktop/HELLO_DD1/uart
+w1539008121
+8./new/UART/BuadRate_set.v
+F./new/UART/BuadRate_set.v
+L0 4
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+Z4 !s108 1544125774.297000
+Z5 !s107 Interface_tb.sv|./new/UART/UART.v|./new/UART/Send_Control.v|./new/UART/Receive_Control.v|./new/UART/BuadRate_set.v|./new/RAM.v|./new/Interface.v|
+Z6 !s90 -reportprogress|300|-f|rtl.list|Interface_tb.sv|-l|comp.log|
+!i113 1
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@buad@rate_set
+vInterface
+R0
+!i10b 1
+!s100 gZbn=RIBAj5JS6edIoAd<1
+Ino4lFH_3MQkZcmz:GBjJ42
+R1
+R2
+w1544125679
+8./new/Interface.v
+F./new/Interface.v
+Z8 L0 23
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@interface
+vInterface_tb
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R0
+!i10b 1
+!s100 ciFJK^[YhH53C`mOMOEe@1
+I8]c5QZKe=Yo1]mBmHin;L2
+R1
+!s105 Interface_tb_sv_unit
+S1
+R2
+w1544124414
+8Interface_tb.sv
+FInterface_tb.sv
+R8
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@interface_tb
+vRAM
+R0
+!i10b 1
+!s100 HU:[ggEhSRWUEPz]LlX9i1
+IgjcOAP;SC4Y7Y?7lPD5l:0
+R1
+R2
+w1544006193
+8./new/RAM.v
+F./new/RAM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@r@a@m
+vReceive_Control
+R0
+!i10b 1
+!s100 eRV9S:Y3iNbaj9U54=H@[2
+I3jfOD04J94:@>fQ4mH9=o1
+R1
+R2
+w1544116722
+8./new/UART/Receive_Control.v
+F./new/UART/Receive_Control.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@receive_@control
+vSend_Control
+R0
+!i10b 1
+!s100 elIjCY3dIO@3fcjZRJg843
+I08[`_3A:Mk8fZQGhKZlZ31
+R1
+R2
+w1543916339
+8./new/UART/Send_Control.v
+F./new/UART/Send_Control.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@send_@control
+vUART
+R0
+!i10b 1
+!s100 Nf>AYo2nP3FRV`[Q>TI`R1
+I`ej]AU@8Y9^:lD3YQag891
+R1
+R2
+w1540659040
+8./new/UART/UART.v
+F./new/UART/UART.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@u@a@r@t
